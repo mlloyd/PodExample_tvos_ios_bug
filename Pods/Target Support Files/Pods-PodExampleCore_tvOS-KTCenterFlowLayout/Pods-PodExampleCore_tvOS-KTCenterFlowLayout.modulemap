@@ -1,0 +1,6 @@
+framework module KTCenterFlowLayout {
+  umbrella header "Pods-PodExampleCore_tvOS-KTCenterFlowLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

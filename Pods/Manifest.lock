@@ -1,0 +1,27 @@
+PODS:
+  - Aspects (1.4.1)
+  - KTCenterFlowLayout (1.1.1)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+
+DEPENDENCIES:
+  - Aspects (= 1.4.1)
+  - KTCenterFlowLayout (from `git@github.com:mlloyd/KTCenterFlowLayout.git`)
+  - SDWebImage (= 3.7.3)
+
+EXTERNAL SOURCES:
+  KTCenterFlowLayout:
+    :git: git@github.com:mlloyd/KTCenterFlowLayout.git
+
+CHECKOUT OPTIONS:
+  KTCenterFlowLayout:
+    :commit: a19c649623bbec4ec952b66b4109606f5c2c0e42
+    :git: git@github.com:mlloyd/KTCenterFlowLayout.git
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  KTCenterFlowLayout: 88147634f25da865e168d06efbbc8cb522422130
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+
+COCOAPODS: 0.39.0
