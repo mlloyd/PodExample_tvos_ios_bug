@@ -89,3 +89,6 @@ fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-PodExample_tvOS/KTCenterFlowLayout.framework"
 fi
+if [[ "$CONFIGURATION" == "AppStore" ]]; then
+  install_framework "Pods-PodExample_tvOS/KTCenterFlowLayout.framework"
+fi

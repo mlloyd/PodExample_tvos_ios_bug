@@ -76,8 +76,10 @@
 		001AE3312D214400BC899CC0 /* Pods-PodExampleCore_tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExampleCore_tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodExampleCore_tvOS/Pods-PodExampleCore_tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		0842C32C2DF381021881FEFF /* Pods-PodExampleCore.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExampleCore.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodExampleCore/Pods-PodExampleCore.debug.xcconfig"; sourceTree = "<group>"; };
 		130C126B6AD2C531D6C3A4B1 /* Pods-PodExampleCore.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExampleCore.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodExampleCore/Pods-PodExampleCore.release.xcconfig"; sourceTree = "<group>"; };
+		3AC44C56272108E73E940A3B /* Pods-PodExampleCore_tvOS.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExampleCore_tvOS.appstore.xcconfig"; path = "Pods/Target Support Files/Pods-PodExampleCore_tvOS/Pods-PodExampleCore_tvOS.appstore.xcconfig"; sourceTree = "<group>"; };
 		6FF5ECE719BE353074BB9C28 /* Pods_PodExample_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodExample_tvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		81E44B2F22C664F14EFD64DE /* Pods_PodExampleCore_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodExampleCore_tvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		87448011E628FD52ED6D73D5 /* Pods-PodExample.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExample.appstore.xcconfig"; path = "Pods/Target Support Files/Pods-PodExample/Pods-PodExample.appstore.xcconfig"; sourceTree = "<group>"; };
 		9588C60015A07A9D8D881516 /* Pods-PodExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExample.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodExample/Pods-PodExample.release.xcconfig"; sourceTree = "<group>"; };
 		98BD33129B43B408CA3377F1 /* Pods_PodExampleCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodExampleCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFC589594CD3D7BC594EB5C8 /* Pods-PodExampleCore_tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExampleCore_tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodExampleCore_tvOS/Pods-PodExampleCore_tvOS.release.xcconfig"; sourceTree = "<group>"; };
@@ -108,8 +110,10 @@
 		C14F34C31BF0F60D0024B1AA /* PodExampleCore_tvOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PodExampleCore_tvOS.h; sourceTree = "<group>"; };
 		C14F34C51BF0F60D0024B1AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C32ED8507A938B24DCAE5C1B /* Pods-PodExample_tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExample_tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodExample_tvOS/Pods-PodExample_tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		D18FFC3169467001E51D7914 /* Pods-PodExampleCore.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExampleCore.appstore.xcconfig"; path = "Pods/Target Support Files/Pods-PodExampleCore/Pods-PodExampleCore.appstore.xcconfig"; sourceTree = "<group>"; };
 		D7A523227E65929FEE225B71 /* Pods_PodExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F49445BEF68C3F8424944922 /* Pods-PodExample_tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExample_tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-PodExample_tvOS/Pods-PodExample_tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		FA18E898B2054A27F8DC298A /* Pods-PodExample_tvOS.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodExample_tvOS.appstore.xcconfig"; path = "Pods/Target Support Files/Pods-PodExample_tvOS/Pods-PodExample_tvOS.appstore.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +165,10 @@
 				AFC589594CD3D7BC594EB5C8 /* Pods-PodExampleCore_tvOS.release.xcconfig */,
 				C32ED8507A938B24DCAE5C1B /* Pods-PodExample_tvOS.debug.xcconfig */,
 				F49445BEF68C3F8424944922 /* Pods-PodExample_tvOS.release.xcconfig */,
+				87448011E628FD52ED6D73D5 /* Pods-PodExample.appstore.xcconfig */,
+				D18FFC3169467001E51D7914 /* Pods-PodExampleCore.appstore.xcconfig */,
+				3AC44C56272108E73E940A3B /* Pods-PodExampleCore_tvOS.appstore.xcconfig */,
+				FA18E898B2054A27F8DC298A /* Pods-PodExample_tvOS.appstore.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -718,7 +726,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -756,7 +764,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -906,6 +914,115 @@
 			};
 			name = Release;
 		};
+		C155C3181BFB45CD00F50807 /* AppStore */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = AppStore;
+		};
+		C155C3191BFB45CD00F50807 /* AppStore */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 87448011E628FD52ED6D73D5 /* Pods-PodExample.appstore.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PodExample/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = mlloyd.PodExample;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = AppStore;
+		};
+		C155C31A1BFB45CD00F50807 /* AppStore */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D18FFC3169467001E51D7914 /* Pods-PodExampleCore.appstore.xcconfig */;
+			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = PodExampleCore/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = mlloyd.PodExampleCore;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = AppStore;
+		};
+		C155C31B1BFB45CD00F50807 /* AppStore */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA18E898B2054A27F8DC298A /* Pods-PodExample_tvOS.appstore.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = PodExample_tvOS/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "mlloyd.PodExample-tvOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
+			};
+			name = AppStore;
+		};
+		C155C31C1BFB45CD00F50807 /* AppStore */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3AC44C56272108E73E940A3B /* Pods-PodExampleCore_tvOS.appstore.xcconfig */;
+			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = PodExampleCore_tvOS/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "mlloyd.PodExampleCore-tvOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = AppStore;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -914,6 +1031,7 @@
 			buildConfigurations = (
 				C14F348D1BF0F5A70024B1AA /* Debug */,
 				C14F348E1BF0F5A70024B1AA /* Release */,
+				C155C3181BFB45CD00F50807 /* AppStore */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -923,6 +1041,7 @@
 			buildConfigurations = (
 				C14F34901BF0F5A70024B1AA /* Debug */,
 				C14F34911BF0F5A70024B1AA /* Release */,
+				C155C3191BFB45CD00F50807 /* AppStore */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -932,6 +1051,7 @@
 			buildConfigurations = (
 				C14F34A11BF0F5B90024B1AA /* Debug */,
 				C14F34A21BF0F5B90024B1AA /* Release */,
+				C155C31A1BFB45CD00F50807 /* AppStore */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -941,6 +1061,7 @@
 			buildConfigurations = (
 				C14F34BA1BF0F5C80024B1AA /* Debug */,
 				C14F34BB1BF0F5C80024B1AA /* Release */,
+				C155C31B1BFB45CD00F50807 /* AppStore */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -950,6 +1071,7 @@
 			buildConfigurations = (
 				C14F34CB1BF0F60D0024B1AA /* Debug */,
 				C14F34CC1BF0F60D0024B1AA /* Release */,
+				C155C31C1BFB45CD00F50807 /* AppStore */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

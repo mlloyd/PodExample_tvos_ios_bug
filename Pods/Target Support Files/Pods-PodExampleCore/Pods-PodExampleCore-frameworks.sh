@@ -93,3 +93,8 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-PodExampleCore/KTCenterFlowLayout.framework"
   install_framework "Pods-PodExampleCore/SDWebImage.framework"
 fi
+if [[ "$CONFIGURATION" == "AppStore" ]]; then
+  install_framework "Pods-PodExampleCore/Aspects.framework"
+  install_framework "Pods-PodExampleCore/KTCenterFlowLayout.framework"
+  install_framework "Pods-PodExampleCore/SDWebImage.framework"
+fi
